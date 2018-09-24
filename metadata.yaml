@@ -1,0 +1,27 @@
+_repo: Fleurs-sauvages-Poesies_56515
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valois, Léonise
+    alias: Atala
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '48894'
+    url: http://www.gutenberg.org/2009/agents/48894
+    wikipedia: https://en.wikipedia.org/wiki/L%C3%A9onise_Valois
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2018-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56515'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fleurs sauvages
+
+  Poésies'
+url: http://www.gutenberg.org/ebooks/56515
