@@ -1,5 +1,8 @@
 _repo: Fleurs-sauvages-Poesies_56515
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56515-h/images/cover.jpg
 creator:
   author:
     agent_name: Valois, Léonise
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48894
     wikipedia: https://en.wikipedia.org/wiki/L%C3%A9onise_Valois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56515#Fleurs-sauvages-Poesies
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2018-02-07'
 gutenberg_type: Text
